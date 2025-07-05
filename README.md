@@ -42,7 +42,7 @@ npm install
 4. Inicie a aplicação:
 npm start
 
-# Objetivo do projeto
+Objetivo do projeto
 Este projeto foi criado com fins didáticos para reforçar os conceitos iniciais de React e lógica de programação com operações matemáticas. A aplicação foi construída de forma simples e modular, com foco em clareza e boas práticas.
 
 Desenvolvido com 💙 por Mariana Messias
