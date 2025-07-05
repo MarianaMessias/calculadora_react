@@ -26,6 +26,7 @@ css
 Copiar
 Editar
 src/
+src/
 ├── components/
 │   ├── Button.jsx
 │   └── Input.jsx
@@ -39,7 +40,7 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/MarianaMessias/calculadora_react.git
 Acesse o diretório do projeto:
 
 bash
