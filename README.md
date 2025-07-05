@@ -14,7 +14,7 @@ Limpar todos os valores (C)
 
 Uso de números decimais (.)
 
-🛠 Tecnologias utilizadas
+Tecnologias utilizadas
 React.js com Hooks (useState)
 
 Styled-components para a estilização
