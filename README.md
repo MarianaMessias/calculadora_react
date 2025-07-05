@@ -47,9 +47,6 @@ Este projeto foi criado com fins didáticos para reforçar os conceitos iniciais
 
 Desenvolvido com 💙 por Mariana Messias
 
----
-
-Se quiser, posso te ajudar a criar uma imagem de preview da calculadora para deixar o README ainda mais atrativo. Quer?
 
 
 
