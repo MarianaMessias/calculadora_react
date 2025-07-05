@@ -1,65 +1,55 @@
-Projeto Calculadora em React
-Este é um projeto de calculadora básica, desenvolvido com React. A aplicação permite realizar as quatro operações matemáticas fundamentais: adição, subtração, multiplicação e divisão, com interface simples e responsiva.
+# Calculadora React
 
-Funcionalidades
-Adição (+)
+Este é um projeto de calculadora simples desenvolvido com **React.js**. O objetivo é praticar os conceitos de **componentização**, uso de **hooks (useState)** e **estilização com styled-components**.
 
-Subtração (-)
+##  Funcionalidades
 
-Multiplicação (X)
+- Operações básicas: adição (`+`), subtração (`-`), multiplicação (`X`) e divisão (`/`)
+- Limpar todos os valores (`C`)
+- Suporte a números decimais (`.`)
+- Exibição do resultado final (`=`)
 
-Divisão (/)
+##  Tecnologias utilizadas
 
-Limpar todos os valores (C)
+- [React](https://reactjs.org/)
+- JavaScript (ES6+)
+- Styled-components
 
-Uso de números decimais (.)
-
-Tecnologias utilizadas
-React.js com Hooks (useState)
-
-Styled-components para a estilização
-
-Componentização com Input e Button
-
-Estrutura de pastas
-css
-Copiar
-Editar
+## Estrutura de pastas
 src/
-src/
+├── App.jsx
 ├── components/
-│   ├── Button.jsx
-│   └── Input.jsx
+│ ├── Button.jsx
+│ └── Input.jsx
 ├── styles/
-│   └── styles.js
-└── App.jsx
+│ └── styles.js
 
-Como executar o projeto
-Clone este repositório:
 
-bash
-Copiar
-Editar
+> Obs.: Se as pastas `components` ou `styles` não estiverem aparecendo no GitHub, verifique se há arquivos nelas ou adicione um `.gitkeep` para forçar o versionamento.
+
+## Como executar o projeto
+
+1. Clone este repositório:
+```bash
 git clone https://github.com/MarianaMessias/calculadora_react.git
-Acesse o diretório do projeto:
 
-bash
-Copiar
-Editar
-cd nome-do-repo
-Instale as dependências:
+2. Acesse o diretório do projeto:
+cd calculadora_react
 
-bash
-Copiar
-Editar
+3. Instale as dependências:
 npm install
-Inicie a aplicação:
 
-bash
-Copiar
-Editar
+4. Inicie a aplicação:
 npm start
 
+# Objetivo do projeto
+Este projeto foi criado com fins didáticos para reforçar os conceitos iniciais de React e lógica de programação com operações matemáticas. A aplicação foi construída de forma simples e modular, com foco em clareza e boas práticas.
 
-Observações
-Este projeto foi desenvolvido com fins didáticos para praticar os conceitos de React e componentização. A calculadora não utiliza bibliotecas externas de lógica matemática — todas as operações são feitas com JavaScript puro.
+Desenvolvido com 💙 por Mariana Messias
+
+---
+
+Se quiser, posso te ajudar a criar uma imagem de preview da calculadora para deixar o README ainda mais atrativo. Quer?
+
+
+
